@@ -25,7 +25,7 @@
     <hr>
     <br>
     
-    <label for="Gender"><b>Give your Gender</b></label>
+    <label for="Gender"><b>Type your Gender</b></label>
     <input type="text" placeholder="Enter Gender" name="Gender" id="Gender" required>
     <hr>
     <br>
