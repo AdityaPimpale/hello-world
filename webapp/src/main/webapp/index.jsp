@@ -24,6 +24,12 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
+    
+    <label for="Gender"><b>What's your gender</b></label>
+    <input type="text" placeholder="Enter Gender" name="Gender" id="Gender" required>
+    <hr>
+    <br>
+
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
