@@ -25,8 +25,8 @@
     <hr>
     <br>
     
-    <label for="Gender"><b>Type your Gender</b></label>
-    <input type="text" placeholder="Enter Gender" name="Gender" id="Gender" required>
+    <label for="petName"><b>Type your Pet Name</b></label>
+    <input type="text" placeholder="Enter petName" name="petName" id="petName" required>
     <hr>
     <br>
 
