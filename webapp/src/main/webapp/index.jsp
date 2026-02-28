@@ -4,28 +4,28 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="NAME"><b>Enter Your Full Name</b></label>
+    <label for="NAME"><b>ENTER FULL NAME</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="GENDER"><b>Enter gender</b></label>
+    <label for="GENDER"><b>ENTER GENDER</b></label>
     <input type="text" placeholder="Enter gender" name="gender" id="gender" required>
     <br>
 
-    <label for="EMAIL"><b>Enter Email</b></label>
+    <label for="EMAIL"><b>ENTER EMAIL</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
-    <label for="psw"><b>Give a Password</b></label>
+    <label for="psw"><b>PASSWORD</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
-    <label for="psw-repeat"><b>Repeat Your Password</b></label>
+    <label for="psw-repeat"><b>CONFIRM PASSWORD</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
     
-    <label for="petName"><b>Type your Pet Name</b></label>
+    <label for="petName"><b>GIVE PET NAME</b></label>
     <input type="text" placeholder="Enter petName" name="petName" id="petName" required>
     <hr>
     <br>
