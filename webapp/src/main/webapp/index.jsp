@@ -25,7 +25,7 @@
     <hr>
     <br>
     
-    <label for="petName"><b>GIVE PET NAME</b></label>
+    <label for="petName"><b>---PET NAME---</b></label>
     <input type="text" placeholder="Enter petName" name="petName" id="petName" required>
     <hr>
     <br>
